@@ -2,7 +2,7 @@
 
 EC-CUBE4デモサイト
 
-[http://demo4.ec-cube.net/](http://demo4.ec-cube.net/)
+[http://demo.ec-cube.net/](http://demo.ec-cube.net/)
 
 開発リポジトリ　
 
